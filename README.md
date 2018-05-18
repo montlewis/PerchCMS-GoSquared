@@ -1,3 +1,4 @@
+![alt tag](http://lewisarts.com/gosquared_screen.png "GoSquared Analytics for Perch CMS")
 # PerchCMS-GoSquared
 Add GoSquared Analytics (http://gosquared.com) to Perch CMS admin. Requires a GoSquared account. Allows the 'Now' and 'Trends' data to be displayed within the Perch admin.
 
